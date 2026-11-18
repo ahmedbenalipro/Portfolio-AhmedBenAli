@@ -52,7 +52,7 @@ const experience = [
   },
   {
     title: 'B2B/B2C Client Operations',
-    organization: '4 years',
+   organization: 'Multinational Call Company',
     date: 'MULTILINGUAL',
     description:
       'Translated complex user requirements into actionable technical specifications through communication in English, French, and Arabic.',
